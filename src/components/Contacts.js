@@ -1,5 +1,5 @@
 import React from "react"  
-import img1 from "../profil.png";
+//import img1 from "../profil.png";
 import '@fortawesome/free-regular-svg-icons'
 const Contact=(props)=>{
     console.log(props)

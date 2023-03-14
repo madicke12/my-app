@@ -11,8 +11,7 @@ return (
  <App/>
 )
 }
-ReactDOM.render(<div>
-  <Main/> 
-</div>, document.getElementById('root'))
+ReactDOM.render(
+  <Main/> , document.getElementById('root'))
 
 
